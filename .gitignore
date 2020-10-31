@@ -1,8 +1,9 @@
 # huge files
 Chapter\ 15\ Timeseries\ and\ RNN.ipynb
+pi2pix.ipynb
 face_editing
 datasets
-
+.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
