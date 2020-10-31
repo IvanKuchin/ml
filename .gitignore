@@ -1,5 +1,9 @@
 # huge files
 Chapter\ 15\ Timeseries\ and\ RNN.ipynb
+pix2pix.ipynb
+face_editing
+datasets
+.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -37,6 +41,7 @@ MANIFEST
 *.spec
 
 # Installer logs
+logs/
 pip-log.txt
 pip-delete-this-directory.txt
 
